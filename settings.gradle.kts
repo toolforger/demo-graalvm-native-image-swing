@@ -1,0 +1,1 @@
+rootProject.name = "liberica-nik-java24-hello-world"
