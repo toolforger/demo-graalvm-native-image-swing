@@ -1,0 +1,12 @@
+#! /bin/sh
+
+JAVA_HOME=/home/jo/.jdks/bellsoft-liberica-vm-core-openjdk21-23.1.8
+export JAVA_HOME
+
+if [ "$#" -eq 0 ]; then
+  echo "Usage: $0 [command]" >&2
+  echo "Runs [command] with JAVA_HOME set to $JAVA_HOME"  >&2
+  exit 1
+fi
+
+"$@"

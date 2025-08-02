@@ -1,0 +1,6 @@
+#! /bin/sh
+
+# Useful for testing the .bat scripts on non-Windows systems.
+# Useful for testing the .bat scripts on non-Windows systems.
+
+quickemu --vm ~/windows-10.conf --display spice --width 1920 --height 1080

@@ -1,0 +1,16 @@
+#! /bin/bash
+
+# A crude JVM-vs-native benchmark that does a single run.
+
+if [ -z "$JAVA_HOME" ]; then
+  echo "$0 requires that the environment variable JAVA_HOME is set. Try this:"
+  echo "  jh ./$0"
+  exit 1
+fi
+
+# We do not do `jh ./gradlew run` because we'd have Gradle's running time included.
+
+echo "JVM times:"
+time "$JAVA_HOME/bin/java -jar build/libs/hello-world.jar"
+echo "Native times:"
+time build/native/nativeCompile/hello-world
