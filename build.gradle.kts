@@ -44,6 +44,7 @@ graalvmNative {
         named("main") {
             imageName.set("hello-world")
             mainClass.set(application.mainClass)
+            buildArgs.add("-Djava.awt.headless=false")
         }
     }
 }
