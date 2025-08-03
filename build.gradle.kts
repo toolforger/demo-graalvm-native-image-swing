@@ -34,7 +34,7 @@ application {
 tasks.jar {
     manifest {
         attributes["Main-Class"] = application.mainClass
-        archiveFileName.set("hello-world.jar")
+        archiveFileName.set("hello-awt.jar")
     }
 }
 
@@ -42,7 +42,7 @@ graalvmNative {
     toolchainDetection = true
     binaries {
         named("main") {
-            imageName.set("hello-world")
+            imageName.set("hello-awt")
             mainClass.set(application.mainClass)
             buildArgs.add("-Djava.awt.headless=false")
         }

@@ -11,6 +11,6 @@ fi
 # We do not do `jh ./gradlew run` because we'd have Gradle's running time included.
 
 echo "JVM times:"
-time "$JAVA_HOME/bin/java -jar build/libs/hello-world.jar"
+time "$JAVA_HOME/bin/java -jar build/libs/hello-awt.jar"
 echo "Native times:"
-time build/native/nativeCompile/hello-world
+time build/native/nativeCompile/hello-awt

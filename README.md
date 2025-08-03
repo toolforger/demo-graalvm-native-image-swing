@@ -1,4 +1,5 @@
-# Demo: Hello World with GraalVM and Java 21  
+# Demo: AWT-based Hello World with GraalVM and Java 21  
+# Demo: AWT-based Hello World with GraalVM and Java 21  
 
 ## Setup
 
