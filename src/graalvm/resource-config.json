@@ -1,19 +1,7 @@
 {
   "resources":{
   "includes":[{
-    "pattern":"\\QButtonDemo.java\\E"
-  }, {
-    "pattern":"\\QColorChooserDemo.java\\E"
-  }, {
-    "pattern":"\\QComboBoxDemo.java\\E"
-  }, {
-    "pattern":"\\QFileChooserDemo.java\\E"
-  }, {
-    "pattern":"\\QHtmlDemo.java\\E"
-  }, {
-    "pattern":"\\QInternalFrameDemo.java\\E"
-  }, {
-    "pattern":"\\QListDemo.java\\E"
+    "pattern":"\\QMETA-INF/services/com.formdev.flatlaf.FlatDefaultsAddon\\E"
   }, {
     "pattern":"\\QMETA-INF/services/java.awt.im.spi.InputMethodDescriptor\\E"
   }, {
@@ -21,333 +9,209 @@
   }, {
     "pattern":"\\QMETA-INF/services/java.net.spi.InetAddressResolverProvider\\E"
   }, {
-    "pattern":"\\QMETA-INF/services/java.util.spi.ResourceBundleControlProvider\\E"
+    "pattern":"\\QMETA-INF/services/java.nio.charset.spi.CharsetProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/java.util.prefs.PreferencesFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.xml.parsers.DocumentBuilderFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.xml.stream.XMLInputFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.xml.transform.TransformerFactory\\E"
   }, {
     "pattern":"\\QMETA-INF/services/jdk.vm.ci.services.JVMCIServiceLocator\\E"
   }, {
-    "pattern":"\\QOptionPaneDemo.java\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/FlatDarculaLaf.properties\\E"
   }, {
-    "pattern":"\\QProgressBarDemo.java\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/FlatDarkLaf.properties\\E"
   }, {
-    "pattern":"\\QScrollPaneDemo.java\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/FlatIntelliJLaf.properties\\E"
   }, {
-    "pattern":"\\QSliderDemo.java\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/FlatLaf.properties\\E"
   }, {
-    "pattern":"\\QSplitPaneDemo.java\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/FlatLightLaf.properties\\E"
   }, {
-    "pattern":"\\QTabbedPaneDemo.java\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatDarculaLaf.properties\\E"
   }, {
-    "pattern":"\\QTableDemo.java\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatDarkLaf.properties\\E"
   }, {
-    "pattern":"\\QToolTipDemo.java\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatIntelliJLaf.properties\\E"
   }, {
-    "pattern":"\\QTreeDemo.java\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatLaf.properties\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/apple.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatLaf.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/asparagus.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatLightLaf.properties\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/banana.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatMacDarkLaf.properties\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/broccoli.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatMacLightLaf.properties\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/cantaloupe.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/colors.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/carrot.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/colors_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/corn.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/copy.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/grapefruit.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/copy_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/grapes.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/execute.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/kiwi.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/execute_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/onion.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/intentionBulb.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/peach.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/intentionBulb_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/pear.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/quickfixOffBulb.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/pepper.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/quickfixOffBulb_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/pickle.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/suspend.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/pineapple.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/suspend_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/raspberry.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/errorDialog.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/strawberry.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/errorDialog_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/tomato.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/informationDialog.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/food/watermelon.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/informationDialog_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/misc/cab.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/abstractClass.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/misc/cab_small.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/abstractClass_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/misc/fish.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/abstractMethod.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/misc/fish_small.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/abstractMethod_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/misc/moon.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/annotationtype.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/misc/moon_small.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/annotationtype_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/misc/sun.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/css.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/ImageClub/misc/sun_small.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/css_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/Splash.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/javaScript.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b1.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/javaScript_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b1d.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/xhtml.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b1p.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/xhtml_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b1r.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/warningDialog.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b2.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/warningDialog_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b2d.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/DataTables.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b2p.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/DataTables_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b2r.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/RecentlyUsed.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b3.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/back.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b3d.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/back_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b3p.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/bookmarkGroup.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/b3r.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/bookmarkGroup_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/bl.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/buildLoadChanges.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/bldn.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/buildLoadChanges_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/bm.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/commit.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/bmdn.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/commit_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/br.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/copy.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/brdn.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/copy_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/c.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/diff.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/cb.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/diff_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/cbr.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/expand.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/cbrs.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/expand_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/cbs.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/favorite.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/cdn.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/forward.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/ml.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/forward_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/mldn.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/github.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/mr.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/github_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/mrdn.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/intellij-showWriteAccess.png\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/rb.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/listFiles.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/rbp.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/listFiles_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/rbr.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/matchCase.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/rbrs.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/matchCase_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/rbs.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/menu-cut.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/tl.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/menu-cut_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/tldn.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/menu-paste.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/tm.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/menu-paste_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/tmdn.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/plugin.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/tr.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/plugin_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/buttons/trdn.gif\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/project.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/brenteyes.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/project_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/brenthair.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/redo.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/brentmouth.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/refresh.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/georgeseyes.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/refresh_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/georgeshair.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/regex.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/georgesmouth.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/regex_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/hanseyes.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/search.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/hanshair.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/show.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/hansmouth.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/show_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/howardeyes.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/undo.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/howardhair.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/user.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/howardmouth.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/user_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/jameseyes.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/users.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/jameshair.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/users_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/jamesmouth.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/words.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/jeffeyes.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/words_dark.svg\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/jeffhair.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/demo/intellijthemes/themes.json\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/jeffmouth.jpg\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/themes/FlatMacDarkLaf.properties\\E"
   }, {
-    "pattern":"\\Qresources/images/combobox/joneyes.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/jonhair.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/jonmouth.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/laraeyes.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/larahair.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/laramouth.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/larryeyes.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/larryhair.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/larrymouth.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/lisaeyes.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/lisahair.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/lisamouth.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/michaeleyes.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/michaelhair.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/michaelmouth.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/philipeyes.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/philiphair.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/philipmouth.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/scotteyes.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/scotthair.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/combobox/scottmouth.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/filechooser/gifIcon.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/filechooser/jpgIcon.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/list/blue.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/list/cyan.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/list/gray.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/list/green.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/list/magenta.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/list/red.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/list/yellow.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/optionpane/bottle.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/scrollpane/colheader.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/scrollpane/crayons.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/scrollpane/lowerleft.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/scrollpane/rowheader.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/scrollpane/upperleft.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/scrollpane/upperright.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/splitpane/earth.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/splitpane/moon.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/tabbedpane/blake.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/tabbedpane/brooke.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/tabbedpane/david.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/tabbedpane/ewan.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/tabbedpane/ewan.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/tabbedpane/hania.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/tabbedpane/laine.jpg\\E"
-  }, {
-    "pattern":"\\Qresources/images/tabbedpane/matthew.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/tabbedpane/stephen.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JButton.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JColorChooser.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JComboBox.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JDesktop.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JEditorPane.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JFileChooser.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JList.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JOptionPane.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JProgressBar.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JScrollPane.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JSlider.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JSplitPane.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JTabbedPane.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JTable.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/JTree.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/toolbar/ToolTip.gif\\E"
-  }, {
-    "pattern":"\\Qresources/images/tooltip/cow.gif\\E"
-  }, {
-    "pattern":"\\Qresources/index.html\\E"
-  }, {
-    "pattern":"\\Qresources/tree.txt\\E"
+    "pattern":"\\Qcom/formdev/flatlaf/themes/FlatMacLightLaf.properties\\E"
   }, {
     "pattern":"java.base:\\Qjava/lang/Boolean.class\\E"
   }, {
@@ -369,7 +233,17 @@
   }, {
     "pattern":"java.base:\\Qjava/util/currency.data\\E"
   }, {
-    "pattern":"java.base:\\Qsun/net/www/content-types.properties\\E"
+    "pattern":"java.base:\\Qjdk/internal/icu/impl/data/icudt72b/nfc.nrm\\E"
+  }, {
+    "pattern":"java.base:\\Qjdk/internal/icu/impl/data/icudt72b/ubidi.icu\\E"
+  }, {
+    "pattern":"java.base:\\Qsun/text/resources/LineBreakIteratorData\\E"
+  }, {
+    "pattern":"java.desktop:\\Qcom/formdev/flatlaf/resources/Bundle.properties\\E"
+  }, {
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/basic/icons/image-delayed.png\\E"
+  }, {
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/basic/icons/image-failed.png\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/close-pressed.gif\\E"
   }, {
@@ -380,6 +254,8 @@
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/collapsed.gif\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/directory.gif\\E"
+  }, {
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/error.png\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/expanded.gif\\E"
   }, {
@@ -395,27 +271,33 @@
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/maximize.gif\\E"
   }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/menu.gif\\E"
-  }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/minimize-pressed.gif\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/minimize.gif\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/paletteClose-pressed.gif\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/paletteClose.gif\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/question.png\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/warning.png\\E"
   }, {
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/nimbus/icons/image-delayed.png\\E"
+  }, {
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/nimbus/icons/image-failed.png\\E"
+  }, {
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/synth/icons/image-delayed.png\\E"
+  }, {
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/synth/icons/image-failed.png\\E"
+  }, {
     "pattern":"java.desktop:\\Qjavax/swing/text/html/default.css\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/text/html/parser/html32.bdtd\\E"
   }, {
-    "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/amd64/AMD64MathStub.class\\E"
+    "pattern":"java.xml:\\Qcom/sun/org/apache/xml/internal/serializer/Encodings.properties\\E"
+  }, {
+    "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/HotSpotBackend.class\\E"
   }, {
     "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/ClassGetHubNode.class\\E"
+  }, {
+    "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/DigestBaseSnippets.class\\E"
   }, {
     "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/HotSpotAllocationSnippets.class\\E"
   }, {
@@ -440,6 +322,8 @@
     "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/RegisterFinalizerSnippets.class\\E"
   }, {
     "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/TypeCheckSnippetUtils.class\\E"
+  }, {
+    "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/UnsafeSnippets.class\\E"
   }, {
     "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/arraycopy/HotSpotArraycopySnippets.class\\E"
   }, {
@@ -492,14 +376,23 @@
     "pattern":"org.graalvm.word:\\Qorg/graalvm/word/LocationIdentity.class\\E"
   }]},
   "bundles":[{
+    "name":"com.formdev.flatlaf.resources.Bundle",
+    "locales":["", "de"]
+  }, {
+    "name":"com.sun.java.swing.plaf.gtk.resources.gtk",
+    "classNames":["com.sun.java.swing.plaf.gtk.resources.gtk", "com.sun.java.swing.plaf.gtk.resources.gtk_de"]
+  }, {
+    "name":"com.sun.org.apache.xml.internal.serializer.XMLEntities",
+    "locales":[""]
+  }, {
     "name":"com.sun.swing.internal.plaf.basic.resources.basic",
     "classNames":["com.sun.swing.internal.plaf.basic.resources.basic", "com.sun.swing.internal.plaf.basic.resources.basic_de"]
   }, {
     "name":"com.sun.swing.internal.plaf.metal.resources.metal",
     "classNames":["com.sun.swing.internal.plaf.metal.resources.metal", "com.sun.swing.internal.plaf.metal.resources.metal_de"]
   }, {
-    "name":"resources.swingset",
-    "locales":[""]
+    "name":"com.sun.swing.internal.plaf.synth.resources.synth",
+    "classNames":["com.sun.swing.internal.plaf.synth.resources.synth", "com.sun.swing.internal.plaf.synth.resources.synth_de"]
   }, {
     "name":"sun.awt.resources.awt",
     "classNames":["sun.awt.resources.awt", "sun.awt.resources.awt_de"]

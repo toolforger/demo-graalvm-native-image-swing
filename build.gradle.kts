@@ -22,7 +22,7 @@ dependencies {
 }
 
 application {
-    mainClass.set("SwingSet2")
+    mainClass.set("com.formdev.flatlaf.demo.FlatLafDemo")
     applicationDefaultJvmArgs = listOf("-agentlib:native-image-agent=config-output-dir=${projectDir}/src/graalvm")
 }
 
@@ -30,7 +30,7 @@ graalvmNative {
     toolchainDetection = true
     binaries {
         named("main") {
-            imageName.set("swingset2")
+            imageName.set("flatlaf-demo")
             mainClass.set(application.mainClass)
             buildArgs.addAll(
                 // Build args taken from https://www.praj.in/posts/2021/compiling-swing-apps-ahead-of-time/

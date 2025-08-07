@@ -1,4 +1,4 @@
-# Demo: SwingSet2 with GraalVM and Java 21  
+# Demo: flatlaf 3.6 with GraalVM and Java 21  
 
 ## Setup
 
