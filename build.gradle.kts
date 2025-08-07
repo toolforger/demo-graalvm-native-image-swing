@@ -1,6 +1,8 @@
 plugins {
     id("java")
+
     id("org.graalvm.buildtools.native") version "0.11.0"
+
     // Provides the "run" target.
     // The build script also uses this plugin to define the application name.
     id("application")
@@ -15,36 +17,28 @@ repositories {
     mavenCentral()
 }
 
-// Not really relevant because we don't have tests.
-// Keeping it because projects copying this build file usually need this.
 dependencies {
-    testImplementation(platform("org.junit:junit-bom:5.10.0"))
-    testImplementation("org.junit.jupiter:junit-jupiter")
+    runtimeOnly(fileTree("src/main/jars") { include("*.jar") })
 }
-
-tasks.test {
-    useJUnitPlatform()
-}
-
 
 application {
-    mainClass.set("org.toolforger.demos.graalvm.Main")
-}
-
-tasks.jar {
-    manifest {
-        attributes["Main-Class"] = application.mainClass
-        archiveFileName.set("hello-awt.jar")
-    }
+    mainClass.set("SwingSet2")
+    applicationDefaultJvmArgs = listOf("-agentlib:native-image-agent=config-output-dir=${projectDir}/src/graalvm")
 }
 
 graalvmNative {
     toolchainDetection = true
     binaries {
         named("main") {
-            imageName.set("hello-awt")
+            imageName.set("swingset2")
             mainClass.set(application.mainClass)
-            buildArgs.add("-Djava.awt.headless=false")
+            buildArgs.addAll(
+                // Build args taken from https://www.praj.in/posts/2021/compiling-swing-apps-ahead-of-time/
+                "--no-fallback",
+                "-H:ConfigurationFileDirectories=${projectDir}/src/graalvm",
+                "-Djava.awt.headless=false",
+                "-J-Xmx7G",
+            )
         }
     }
 }

@@ -1,5 +1,4 @@
-# Demo: AWT-based Hello World with GraalVM and Java 21  
-# Demo: AWT-based Hello World with GraalVM and Java 21  
+# Demo: SwingSet2 with GraalVM and Java 21  
 
 ## Setup
 
@@ -82,8 +81,18 @@ that was tested with version 2025.1.4.1.
 
 ## Building
 
-To create a jar file, do `jh ./gradlew jar`.  
-To create a native image, do `jh ./gradlew nativeCompile`.
+No jar file build is necessary.
+
+To create a native image:
+
+* Run the jar file first and make sure to exercise the GUI.
+GraalVM's build tool does a good job at statically determining
+what classes and methods are called,
+but that is static analysis and it has its limits.  
+Running the jar file with the parameters seen in [build.gradle.kts]
+makes it record any calls that have escaped analysis,
+such as classes loaded with `Class.forName(String)` and similar.
+* Do `jh ./gradlew nativeCompile`.
 
 _On Windows, leave the `./` part out._
 
@@ -99,3 +108,18 @@ _On Windows, leave the `./` part out._
 Run `jh ./benchmark`.
 
 _On Windows, leave the `./` part out._
+
+The benchmark does not do the recording tasks that `jh ./gradlew run` does.  
+However, benchmarking the running time of a Swing application
+is a somewhat dubious idea at best;
+you'll likely want to exercise some scripted sequence of user interaction.
+
+I did a GUI tool testing review a few years ago,
+and all except [QF-Test](https://www.qftest.com)
+had pretty lackluster Swing support.  
+QF-Test was easy to use and reliable in Swing, so it stood out.  
+Downsides:
+It's [not free](https://www.qftest.com/en/product/pricing.html),
+and addressing `JTable` cells was clunky for some use cases,
+but that was about all we saw.    
+<small>This tiny review is not sponsored by Quality First Software.</small>
