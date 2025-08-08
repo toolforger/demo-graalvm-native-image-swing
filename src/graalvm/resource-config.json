@@ -1,7 +1,7 @@
 {
   "resources":{
   "includes":[{
-    "pattern":"\\QMETA-INF/services/com.formdev.flatlaf.FlatDefaultsAddon\\E"
+    "pattern":"\\QLibrary.txt.gz\\E"
   }, {
     "pattern":"\\QMETA-INF/services/java.awt.im.spi.InputMethodDescriptor\\E"
   }, {
@@ -13,205 +13,971 @@
   }, {
     "pattern":"\\QMETA-INF/services/java.util.prefs.PreferencesFactory\\E"
   }, {
-    "pattern":"\\QMETA-INF/services/javax.xml.parsers.DocumentBuilderFactory\\E"
+    "pattern":"\\QMETA-INF/services/java.util.spi.ResourceBundleControlProvider\\E"
   }, {
-    "pattern":"\\QMETA-INF/services/javax.xml.stream.XMLInputFactory\\E"
+    "pattern":"\\QMETA-INF/services/javax.imageio.spi.ImageInputStreamSpi\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.imageio.spi.ImageOutputStreamSpi\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.imageio.spi.ImageReaderSpi\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.imageio.spi.ImageTranscoderSpi\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.imageio.spi.ImageWriterSpi\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.xml.parsers.DocumentBuilderFactory\\E"
   }, {
     "pattern":"\\QMETA-INF/services/javax.xml.transform.TransformerFactory\\E"
   }, {
     "pattern":"\\QMETA-INF/services/jdk.vm.ci.services.JVMCIServiceLocator\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/FlatDarculaLaf.properties\\E"
+    "pattern":"\\QMETA-INF/services/org.w3c.dom.DOMImplementationSourceList\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/FlatDarkLaf.properties\\E"
+    "pattern":"\\QReadme.txt\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/FlatIntelliJLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/grid/icons/quick_search.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/FlatLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/grid/icons/quick_search@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/FlatLightLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/grid/icons/quick_search@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatDarculaLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/grid/icons/quick_search_reset.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatDarkLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/grid/icons/quick_search_reset@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatIntelliJLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/grid/icons/quick_search_reset@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_delete.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatLaf.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_delete@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatLightLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_delete@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatMacDarkLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/FlatMacLightLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/colors.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/colors_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag_stop.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/copy.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag_stop@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/copy_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag_stop@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/execute.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag_text.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/execute_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag_text@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/intentionBulb.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag_text@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/intentionBulb_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag_text_stop.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/quickfixOffBulb.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag_text_stop@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/quickfixOffBulb_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_drag_text_stop@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/suspend.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_east.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/actions/suspend_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_east@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/errorDialog.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_east@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/errorDialog_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_float.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/informationDialog.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_float@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/informationDialog_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_float@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/abstractClass.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_horizontal.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/abstractClass_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_horizontal@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/abstractMethod.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_horizontal@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/abstractMethod_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_move_east.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/annotationtype.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_move_east@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/annotationtype_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_move_east@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/css.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_move_west.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/css_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_move_west@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/javaScript.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_move_west@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/javaScript_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_north.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/xhtml.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_north@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/objects/xhtml_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_north@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/warningDialog.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_percentage.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/extras/svg/warningDialog_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_percentage@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/DataTables.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_percentage@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/DataTables_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_south.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/RecentlyUsed.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_south@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/back.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_south@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/back_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_tab.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/bookmarkGroup.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_tab@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/bookmarkGroup_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_tab@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/buildLoadChanges.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_vertical.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/buildLoadChanges_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_vertical@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/commit.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_vertical@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/commit_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_west.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/copy.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_west@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/copy_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/cursor_west@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/diff.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_dot.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/diff_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_dot@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/expand.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_dot@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/expand_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_down.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/favorite.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_down@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/forward.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_down@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/forward_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_left.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/github.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_left@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/github_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_left@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/intellij-showWriteAccess.png\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_right.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/listFiles.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_right@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/listFiles_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_right@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/matchCase.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_up.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/matchCase_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_up@2x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/menu-cut.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/direction_up@3x.png\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/menu-cut_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_1.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/menu-paste.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_10.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/menu-paste_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_10@2x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/plugin.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_10@3x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/plugin_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_11.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/project.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_11@2x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/project_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_11@3x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/redo.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_1@2x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/refresh.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_1@3x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/refresh_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_2.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/regex.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_2@2x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/regex_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_2@3x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/search.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_3.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/show.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_3@2x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/show_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_3@3x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/undo.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_4.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/user.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_4@2x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/user_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_4@3x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/users.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_5.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/users_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_5@2x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/words.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_5@3x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/icons/words_dark.svg\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_6.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/demo/intellijthemes/themes.json\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_6@2x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/themes/FlatMacDarkLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_6@3x.gif\\E"
   }, {
-    "pattern":"\\Qcom/formdev/flatlaf/themes/FlatMacLightLaf.properties\\E"
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_7.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_7@2x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_7@3x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_8.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_8@2x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_8@3x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_9.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_9@2x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_9@3x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_blank.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_blank@2x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/dockableframe_blank@3x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_autohide.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_autohide@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_autohide@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_float.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_float@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_float@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_hide.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_hide@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_hide@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_hideAutohide.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_hideAutohide@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_hideAutohide@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_maximize.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_maximize@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_maximize@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_restore.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_restore@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_restore@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_stopAutohide.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_stopAutohide@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_stopAutohide@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_unfloat.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_unfloat@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/frame_action_unfloat@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/jide32.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/jide32@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/jide32@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/jide_logo.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/jide_logo@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/jide_logo@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/jide_logo_small_2.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/jide_logo_small_2@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/jide_logo_small_2@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/windows_new_horizontal_tab_group.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/windows_new_horizontal_tab_group@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/windows_new_horizontal_tab_group@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/windows_new_vertical_tab_group.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/windows_new_vertical_tab_group@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/icons/jide/windows_new_vertical_tab_group@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/delete.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/delete@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/delete@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/home.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/home@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/home@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/new.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/new@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/new@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/refresh.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/refresh@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/basic/icons/refresh@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_blue.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_blue@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_blue@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_default.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_default@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_default@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_gray.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_gray@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_gray@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_homestead.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_homestead@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_homestead@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_mask.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_mask@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_mask@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_metallic.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_metallic@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/office2003/icons/collapsible_pane_metallic@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/vsnet/icons/collapsible_pane_metal.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/vsnet/icons/collapsible_pane_metal@2x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/vsnet/icons/collapsible_pane_metal@3x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/vsnet/icons/title_buttons_metal.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/vsnet/icons/title_buttons_metal@2x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/plaf/vsnet/icons/title_buttons_metal@3x.gif\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/status/icons/file_gc.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/status/icons/file_gc@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/status/icons/file_gc@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_attention.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_attention@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_attention@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_correct.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_correct@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_correct@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_info.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_info@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_info@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_question.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_question@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/overlay_question@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_close.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_close@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_close@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_close_rollover.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_close_rollover@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_close_rollover@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_disabled.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_disabled@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_disabled@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_rollover.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_rollover@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_rollover@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_selected.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_selected@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_selected@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_selected_rollover.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_selected_rollover@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_highlights_selected_rollover@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_next.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_next@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_next@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_next_disabled.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_next_disabled@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_next_disabled@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_next_rollover.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_next_rollover@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_next_rollover@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_previous.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_previous@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_previous@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_previous_disabled.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_previous_disabled@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_previous_disabled@3x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_previous_rollover.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_previous_rollover@2x.png\\E"
+  }, {
+    "pattern":"\\Qcom/jidesoft/swing/icons/search_previous_rollover@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Copy.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Copy@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Copy@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Cut.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Cut@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Cut@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Delete.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Delete@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Delete@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-History.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-History@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-History@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Paste.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Paste@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Paste@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Redo.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Redo@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Redo@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Refresh.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Refresh@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Refresh@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Undo.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Undo@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/Edit-Undo@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/action.png\\E"
+  }, {
+    "pattern":"\\Qicons/action@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/action@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/album.png\\E"
+  }, {
+    "pattern":"\\Qicons/album@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/album@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/base.png\\E"
+  }, {
+    "pattern":"\\Qicons/base@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/base@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/beta.png\\E"
+  }, {
+    "pattern":"\\Qicons/beta@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/beta@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/bookmark0.png\\E"
+  }, {
+    "pattern":"\\Qicons/bookmark0@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/bookmark0@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/bookmark1.png\\E"
+  }, {
+    "pattern":"\\Qicons/bookmark1@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/bookmark1@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/calendar.gif\\E"
+  }, {
+    "pattern":"\\Qicons/calendar@2x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/calendar@3x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/calendar_24x24.png\\E"
+  }, {
+    "pattern":"\\Qicons/calendar_24x24@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/calendar_24x24@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/charts.png\\E"
+  }, {
+    "pattern":"\\Qicons/charts@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/charts@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/code.png\\E"
+  }, {
+    "pattern":"\\Qicons/code@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/code@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/components.png\\E"
+  }, {
+    "pattern":"\\Qicons/components@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/components@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/contacts.gif\\E"
+  }, {
+    "pattern":"\\Qicons/contacts@2x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/contacts@3x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/contacts_24x24.png\\E"
+  }, {
+    "pattern":"\\Qicons/contacts_24x24@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/contacts_24x24@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/dashboard.png\\E"
+  }, {
+    "pattern":"\\Qicons/dashboard@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/dashboard@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/data.png\\E"
+  }, {
+    "pattern":"\\Qicons/data@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/data@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/db_invalid_breakpoint.png\\E"
+  }, {
+    "pattern":"\\Qicons/db_invalid_breakpoint@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/db_invalid_breakpoint@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/db_verified_breakpoint.png\\E"
+  }, {
+    "pattern":"\\Qicons/db_verified_breakpoint@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/db_verified_breakpoint@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/demo.png\\E"
+  }, {
+    "pattern":"\\Qicons/demo@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/demo@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/dialogs.png\\E"
+  }, {
+    "pattern":"\\Qicons/dialogs@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/dialogs@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/diff.png\\E"
+  }, {
+    "pattern":"\\Qicons/diff@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/diff@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/dock.png\\E"
+  }, {
+    "pattern":"\\Qicons/dock@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/dock@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/email.gif\\E"
+  }, {
+    "pattern":"\\Qicons/email@2x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/email@3x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/email_24x24.png\\E"
+  }, {
+    "pattern":"\\Qicons/email_24x24@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/email_24x24@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/folder-closed.png\\E"
+  }, {
+    "pattern":"\\Qicons/folder-closed@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/folder-closed@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/folder-opened.png\\E"
+  }, {
+    "pattern":"\\Qicons/folder-opened@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/folder-opened@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/folder.gif\\E"
+  }, {
+    "pattern":"\\Qicons/folder@2x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/folder@3x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/folder_24x24.png\\E"
+  }, {
+    "pattern":"\\Qicons/folder_24x24@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/folder_24x24@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/gantt.png\\E"
+  }, {
+    "pattern":"\\Qicons/gantt@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/gantt@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/grids.png\\E"
+  }, {
+    "pattern":"\\Qicons/grids@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/grids@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/journal.gif\\E"
+  }, {
+    "pattern":"\\Qicons/journal@2x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/journal@3x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/journal_24x24.png\\E"
+  }, {
+    "pattern":"\\Qicons/journal_24x24@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/journal_24x24@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/new.png\\E"
+  }, {
+    "pattern":"\\Qicons/new@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/new@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/node.png\\E"
+  }, {
+    "pattern":"\\Qicons/node@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/node@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/notes.gif\\E"
+  }, {
+    "pattern":"\\Qicons/notes@2x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/notes@3x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/notes_24x24.png\\E"
+  }, {
+    "pattern":"\\Qicons/notes_24x24@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/notes_24x24@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/options.png\\E"
+  }, {
+    "pattern":"\\Qicons/options@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/options@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/package.png\\E"
+  }, {
+    "pattern":"\\Qicons/package@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/package@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/package_rollover.png\\E"
+  }, {
+    "pattern":"\\Qicons/package_rollover@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/package_rollover@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/picture.png\\E"
+  }, {
+    "pattern":"\\Qicons/picture@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/picture@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/pivot.png\\E"
+  }, {
+    "pattern":"\\Qicons/pivot@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/pivot@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/remove_package.png\\E"
+  }, {
+    "pattern":"\\Qicons/remove_package@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/remove_package@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/remove_package_rollover.png\\E"
+  }, {
+    "pattern":"\\Qicons/remove_package_rollover@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/remove_package_rollover@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/required.gif\\E"
+  }, {
+    "pattern":"\\Qicons/required@2x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/required@3x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/rss.png\\E"
+  }, {
+    "pattern":"\\Qicons/rss@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/rss@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/scroll_down.png\\E"
+  }, {
+    "pattern":"\\Qicons/scroll_down@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/scroll_down@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/scroll_select.png\\E"
+  }, {
+    "pattern":"\\Qicons/scroll_select@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/scroll_select@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/scroll_up.png\\E"
+  }, {
+    "pattern":"\\Qicons/scroll_up@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/scroll_up@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/shortcut.gif\\E"
+  }, {
+    "pattern":"\\Qicons/shortcut.png\\E"
+  }, {
+    "pattern":"\\Qicons/shortcut@2x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/shortcut@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/shortcut@3x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/shortcut@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/shortcut_24x24.png\\E"
+  }, {
+    "pattern":"\\Qicons/shortcut_24x24@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/shortcut_24x24@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/song.png\\E"
+  }, {
+    "pattern":"\\Qicons/song@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/song@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/sort.png\\E"
+  }, {
+    "pattern":"\\Qicons/sort@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/sort@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/tasks.gif\\E"
+  }, {
+    "pattern":"\\Qicons/tasks@2x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/tasks@3x.gif\\E"
+  }, {
+    "pattern":"\\Qicons/tasks_24x24.png\\E"
+  }, {
+    "pattern":"\\Qicons/tasks_24x24@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/tasks_24x24@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/tree.png\\E"
+  }, {
+    "pattern":"\\Qicons/tree@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/tree@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/updated.png\\E"
+  }, {
+    "pattern":"\\Qicons/updated@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/updated@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_normal.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_normal@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_normal@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_outline.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_outline@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_outline@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_print_layout.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_print_layout@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_print_layout@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_reading_layout.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_reading_layout@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_reading_layout@3x.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_web_layout.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_web_layout@2x.png\\E"
+  }, {
+    "pattern":"\\Qicons/view_web_layout@3x.png\\E"
+  }, {
+    "pattern":"\\Qurl.txt.gz\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/class_view.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/class_view@2x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/class_view@3x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/command.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/command@2x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/command@3x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/find_result_1.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/find_result_1@2x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/find_result_1@3x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/find_result_2.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/find_result_2@2x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/find_result_2@3x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/output.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/output@2x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/output@3x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/property.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/property@2x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/property@3x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/resource_view.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/resource_view@2x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/resource_view@3x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/server_explorer.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/server_explorer@2x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/server_explorer@3x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/solution_explorer.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/solution_explorer@2x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/solution_explorer@3x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/tasklist.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/tasklist@2x.gif\\E"
+  }, {
+    "pattern":"\\Qvsnet/toolwindows/tasklist@3x.gif\\E"
   }, {
     "pattern":"java.base:\\Qjava/lang/Boolean.class\\E"
   }, {
@@ -235,57 +1001,31 @@
   }, {
     "pattern":"java.base:\\Qjdk/internal/icu/impl/data/icudt72b/nfc.nrm\\E"
   }, {
-    "pattern":"java.base:\\Qjdk/internal/icu/impl/data/icudt72b/ubidi.icu\\E"
+    "pattern":"java.base:\\Qjdk/internal/icu/impl/data/icudt72b/nfkc.nrm\\E"
   }, {
-    "pattern":"java.base:\\Qsun/text/resources/LineBreakIteratorData\\E"
-  }, {
-    "pattern":"java.desktop:\\Qcom/formdev/flatlaf/resources/Bundle.properties\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/basic/icons/image-delayed.png\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/basic/icons/image-failed.png\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/close-pressed.gif\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/close.gif\\E"
+    "pattern":"java.datatransfer:\\Qsun/datatransfer/resources/flavormap.properties\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/collapsed-rtl.gif\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/collapsed.gif\\E"
   }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/directory.gif\\E"
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/computer.gif\\E"
   }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/error.png\\E"
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/directory.gif\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/expanded.gif\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/file.gif\\E"
   }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/iconify-pressed.gif\\E"
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/floppy.gif\\E"
   }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/iconify.gif\\E"
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/hardDrive.gif\\E"
   }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/info.png\\E"
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/homeFolder.gif\\E"
   }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/maximize-pressed.gif\\E"
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/newFolder.gif\\E"
   }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/maximize.gif\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/minimize-pressed.gif\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/minimize.gif\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/question.png\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/warning.png\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/nimbus/icons/image-delayed.png\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/nimbus/icons/image-failed.png\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/synth/icons/image-delayed.png\\E"
-  }, {
-    "pattern":"java.desktop:\\Qjavax/swing/plaf/synth/icons/image-failed.png\\E"
+    "pattern":"java.desktop:\\Qjavax/swing/plaf/metal/icons/ocean/upFolder.gif\\E"
   }, {
     "pattern":"java.desktop:\\Qjavax/swing/text/html/default.css\\E"
   }, {
@@ -294,6 +1034,8 @@
     "pattern":"java.xml:\\Qcom/sun/org/apache/xml/internal/serializer/Encodings.properties\\E"
   }, {
     "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/HotSpotBackend.class\\E"
+  }, {
+    "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/amd64/AMD64MathStub.class\\E"
   }, {
     "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/ClassGetHubNode.class\\E"
   }, {
@@ -322,8 +1064,6 @@
     "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/RegisterFinalizerSnippets.class\\E"
   }, {
     "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/TypeCheckSnippetUtils.class\\E"
-  }, {
-    "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/UnsafeSnippets.class\\E"
   }, {
     "pattern":"jdk.internal.vm.compiler:\\Qorg/graalvm/compiler/hotspot/replacements/arraycopy/HotSpotArraycopySnippets.class\\E"
   }, {
@@ -376,14 +1116,31 @@
     "pattern":"org.graalvm.word:\\Qorg/graalvm/word/LocationIdentity.class\\E"
   }]},
   "bundles":[{
-    "name":"com.formdev.flatlaf.resources.Bundle",
-    "locales":["", "de"]
+    "name":"com.jidesoft.action.action",
+    "locales":[""]
   }, {
-    "name":"com.sun.java.swing.plaf.gtk.resources.gtk",
-    "classNames":["com.sun.java.swing.plaf.gtk.resources.gtk", "com.sun.java.swing.plaf.gtk.resources.gtk_de"]
+    "name":"com.jidesoft.dialog.buttons",
+    "locales":[""]
+  }, {
+    "name":"com.jidesoft.plaf.basic.basic",
+    "locales":[""]
+  }, {
+    "name":"com.jidesoft.plaf.basic.folderChooser",
+    "locales":[""]
+  }, {
+    "name":"com.jidesoft.status.status",
+    "locales":[""]
+  }, {
+    "name":"com.jidesoft.swing.swing",
+    "locales":[""]
+  }, {
+    "name":"com.jidesoft.utils.utils"
   }, {
     "name":"com.sun.org.apache.xml.internal.serializer.XMLEntities",
     "locales":[""]
+  }, {
+    "name":"com.sun.org.apache.xml.internal.serializer.utils.SerializerMessages",
+    "classNames":["com.sun.org.apache.xml.internal.serializer.utils.SerializerMessages", "com.sun.org.apache.xml.internal.serializer.utils.SerializerMessages_de"]
   }, {
     "name":"com.sun.swing.internal.plaf.basic.resources.basic",
     "classNames":["com.sun.swing.internal.plaf.basic.resources.basic", "com.sun.swing.internal.plaf.basic.resources.basic_de"]
@@ -391,8 +1148,8 @@
     "name":"com.sun.swing.internal.plaf.metal.resources.metal",
     "classNames":["com.sun.swing.internal.plaf.metal.resources.metal", "com.sun.swing.internal.plaf.metal.resources.metal_de"]
   }, {
-    "name":"com.sun.swing.internal.plaf.synth.resources.synth",
-    "classNames":["com.sun.swing.internal.plaf.synth.resources.synth", "com.sun.swing.internal.plaf.synth.resources.synth_de"]
+    "name":"demo",
+    "locales":[""]
   }, {
     "name":"sun.awt.resources.awt",
     "classNames":["sun.awt.resources.awt", "sun.awt.resources.awt_de"]

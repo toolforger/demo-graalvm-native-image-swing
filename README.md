@@ -1,4 +1,4 @@
-# Demo: flatlaf 3.6 with GraalVM and Java 21  
+# Demo: jide_demo 1.4 with GraalVM and Java 21  
 
 ## Setup
 
@@ -95,6 +95,46 @@ such as classes loaded with `Class.forName(String)` and similar.
 * Do `jh ./gradlew nativeCompile`.
 
 _On Windows, leave the `./` part out._
+
+**Note:** This build currently fails, with the error message
+`unbalanced monitors - locked objects do not match`.
+
+"Monitor" is bytecode speak for "lock", which happens at the Java level in
+`synchronized` blocks, and at the JVM for some internal operations (including class loading/initialization IIRC).  
+Unbalanced monitors are typically associated with exceptions.  
+
+The root cause is that the unbalanced monitors check is *optional*.  
+The JVM can deal with unbalanced monitors,
+which has been described as "runtime trickery using exception tables";
+AOT compilers can't do it, and if they don't report the situation,
+they risk run-time crashes.
+
+There's a [suggestion to fix this on the JIDE Software forum](https://www.jidesoft.com/forum/viewtopic.php?f=4&t=17379&p=85805#p85805).
+
+A typical error message is:
+
+```
+Error: Frame states being merged are incompatible: unbalanced monitors - locked objects do not match
+ This frame state: [locals: [_,_,_,_,_,_,_,_,_,_,_,_,_] stack: [] locks: [533 / 32]]
+Other frame state: [locals: [_,_,_,_,_,_,_,_,_,_,_,_,_] stack: [] locks: []]
+Parser context: com.jidesoft.pane.FloorTabbedPane.insertTab(Unknown Source) [bci: 253, intrinsic: false]
+ 253: goto          264
+ 256: astore        12
+ 258: aload         7
+ 260: monitorexit   
+ 261: aload         12
+ 263: athrow       
+
+Call path from entry point to com.jidesoft.pane.FloorTabbedPane.insertTab(String, Icon, Component, String, int):
+   at com.jidesoft.pane.FloorTabbedPane.insertTab(Unknown Source)
+   at javax.swing.JTabbedPane.addTab(JTabbedPane.java:802)
+   at com.jidesoft.docking.FrameContainer.addTab(Unknown Source)
+   at com.jidesoft.docking.DefaultDockingManager.a(Unknown Source)
+   at com.jidesoft.docking.DefaultDockingManager$r.run(Unknown Source)
+   at java.lang.Thread.runWith(Thread.java:1596)
+   at java.lang.Thread.run(Thread.java:1583)
+   at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:902)
+```
 
 ## Running
 

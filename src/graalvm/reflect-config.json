@@ -1,719 +1,1816 @@
 [
 {
-  "name":"ArrowButton"
+  "name":"AbstractNavigableTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"Button"
+  "name":"AbstractSpanTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"CheckBox"
+  "name":"AbstractStyleTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"CheckBoxMenuItem"
+  "name":"AggregateTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"ColorChooser"
+  "name":"AlertDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"ComboBox"
+  "name":"AutoCellMergeTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"DesktopIcon"
+  "name":"AutoCompletionDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"DesktopPane"
+  "name":"AutoFilterTableHeaderDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"EditorPane"
+  "name":"AutoFilterTreeTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"FileChooser"
+  "name":"AutoResizeModeDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"FormattedTextField"
+  "name":"AutoResizingTextAreaDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"InternalFrame"
+  "name":"BalloonTipDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"InternalFrameTitlePane"
+  "name":"BannerPanelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"Label"
+  "name":"BeanTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"List"
+  "name":"BorderDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"Menu"
+  "name":"BreadcrumbBarDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"MenuBar"
+  "name":"BubbleChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"MenuItem"
+  "name":"ButtonPanelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"MenuItemAccelerator"
+  "name":"CachedTableModelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"OptionPane"
+  "name":"CalculatedPivotTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"Panel"
+  "name":"CalculatedTableModelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"PasswordField"
+  "name":"CalculatorDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"PopupMenu"
+  "name":"CalculatorDemo$c",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"PopupMenuSeparator"
+  "name":"CalendarViewerDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"ProgressBar"
+  "name":"CandleStickDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"RadioButton"
+  "name":"CategoricalChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"RadioButtonMenuItem"
+  "name":"CellUnderlayOverlayDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"RootPane"
+  "name":"CheckBoxListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"ScrollBar"
+  "name":"CheckBoxListDemo$i",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"ScrollBarThumb"
+  "name":"CheckBoxTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"ScrollBarTrack"
+  "name":"CheckBoxTreeDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"ScrollPane"
+  "name":"CheckBoxTreeDemo$l",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"Separator"
+  "name":"ChessBoardDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"Slider"
+  "name":"ClockDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"SliderThumb"
+  "name":"CodeEditorDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"SliderTrack"
+  "name":"CodeEditorDocumentPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"Spinner"
+  "name":"CollapsiblePaneDashboardDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"SplitPane"
+  "name":"CollapsiblePaneDashboardDocumentPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"SplitPaneDivider"
+  "name":"CollapsiblePaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"TabbedPane"
+  "name":"ColorChooserDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"TabbedPaneContent"
+  "name":"ComboBoxDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"TabbedPaneTab"
+  "name":"ConfigurableBarChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"TabbedPaneTabArea"
+  "name":"ConfigurableChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"Table"
+  "name":"ContextSensitiveTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"TableHeader"
+  "name":"ConverterDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"TextArea"
+  "name":"CreditCardTextFieldDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"TextField"
+  "name":"CubicSplinesChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"TextPane"
+  "name":"CustomFilterDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"ToggleButton"
+  "name":"CustomStyleDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"ToolBar"
+  "name":"CustomizedCellStyleTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"ToolBarSeparator"
+  "name":"CyclicalChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"ToolTip"
+  "name":"DatabasePageTableModelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"Tree"
+  "name":"DatabaseTableModelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"TreeCell"
+  "name":"DateChooserDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"Viewport"
+  "name":"DateComboBoxDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DateSpinnerDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DefaultSpanTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DemoCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"DemoDocumentComponent$a",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"DiffPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DifferenceChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DifferentViewsDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DirectionChooserDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DirectionPropertyPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DockDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DockableFrameDashboardDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DockingFrameworkDemo",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"DocumentPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DualListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DualTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DualYAxisBarChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"DynamicChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"EditableTableHeaderDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ExComboBoxDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ExpandedTipDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"FeedReaderDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"FileDateCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"FileRowCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"FileSizeCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"FileSystemTreeTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"FilterableTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"FloorTabbedPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"FolderChooserDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"FontGroupListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"GanttChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"GanttChartPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"GradientLineFillDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"GradientStyleTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"GroupTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"GroupedAndStackedDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"HeaderStyleTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"HeavyweightDockDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"HibernatePageTableModelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"HibernateTableModelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"HierarchicalTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"HyperlinkCellDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"IPTextFieldDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"IconGroupListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ImagePreviewListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"InitialLayoutDockDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"IntelliHintsDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"InteractiveChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"JideBorderLayoutDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"JideBoxLayoutDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"JideButtonDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"JideDemos",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }, {"name":"getContentPane","parameterTypes":[] }]
+},
+{
+  "name":"JideDemos$i",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"JideDemos$j",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"JideLabelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"JideOptionPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"JideScrollPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"JideScrollPaneDemo$l",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"JideSplitButtonDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"JideSplitPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"JideSplitPaneDemo$f",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"JideTabbedPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"JideTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"LargeSortableTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"LineChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"LineFittingChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"LocationCustomizationPanel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"LogarithmDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"LuceneQuickFilterListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"LuceneQuickFilterTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MarginSupportDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MarkerDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MarkerSupportDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MarqueePaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MemoryDialDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MergePaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MeterDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MonthChooserDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MorphingBarDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MorphingLineDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MultiChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"MultipleColumnSummaryDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"NavigationListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"NavigationTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"NavigationTreeDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"NonContiguousTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"NotRaphaelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"NumberGanttChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"OptionsDialogDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"OutlookTabbedPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"OverlayableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"OverlayableDemo$x",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"OverlayableDemo$y",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"PageNavigationBarDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"PannableBarChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"PhpSyntaxParsingDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"PieChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"PivotTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"PivotValueProviderDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"PointSpinnerDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"PopulationPyramidDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"PopupDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"PredefinedLayoutDashboardDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ProgramHierarchicalTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ProjectGanttChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"PropertyPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"PropertyPaneEditorContextDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"QuickFilterCheckBoxListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"QuickFilterComboBoxDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"QuickFilterListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"QuickFilterTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"QuickFilterTreeDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"RainfallChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"RangeSliderDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"RegularPanelDashboardDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ResizableTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SampleVsnetDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SampleWordDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ScalabilityDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ScatterChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ScrollableBarChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SearchableBarDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SearchableBarDemo$o",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"SearchableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SearchableDemo$c",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"SearchableDemo$d",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"ShortcutEditorDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ShrinkSearchableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SimpleScrollPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SortableComboBoxDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SortableListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SortableTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SortableTreeDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SparklinesDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"StackedAreaChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"StandardDialogDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"StandardDialogExample1",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"StandardDialogExample2",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"StandardDialogExample3",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"StandardDialogExample4",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"StandardDialogExample5",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"StandardDialogExample5$c",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"StatisticalBarsDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"StatusBarDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"StepChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"StripesTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"StyledLabelBuilderDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"StyledLabelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"StyledLabelDemo$b",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"StyledLabelDemo$c",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"StyledLabelDemo$d",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"StyledLabelDemo$e",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"StyledLabelDemo$f",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"StyledLabelPerformanceDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"StyledLabelTableHeaderDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"SunshineChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TableAdapterDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TableDiffPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TableFlashableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TableScrollPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TableSortItemEditorDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TableSplitPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TableUtilsDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TemperaturesChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TextFieldListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ThreeActionDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TipsOfTheDayDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TitledSeparatorDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TradingHierarchicalTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TransparentChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TransposeTableModelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TreePaletteDashboardDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TreeTableDiffPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TreeTableScrollPaneDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TristateCheckBoxDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"TwoDockDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"UndoableListDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"UndoableTableDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"WeightedAverageDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"WithImagesChartDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"WizardDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"WrapStyledLabelDemo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"[B"
+},
+{
+  "name":"[C"
+},
+{
+  "name":"[Lcom.jidesoft.docking.event.DockableFrameListener;"
+},
+{
+  "name":"[Lcom.jidesoft.grid.IndexChangeListener;"
+},
+{
+  "name":"[Lcom.jidesoft.swing.AnimatorListener;"
+},
+{
+  "name":"[Ljava.awt.event.ItemListener;"
+},
+{
+  "name":"[Ljava.awt.event.KeyListener;"
+},
+{
+  "name":"[Ljava.awt.event.MouseListener;"
 },
 {
   "name":"[Ljava.awt.event.MouseMotionListener;"
 },
 {
-  "name":"[Ljava.awt.event.WindowFocusListener;"
+  "name":"[Ljava.lang.String;"
 },
 {
-  "name":"com.formdev.flatlaf.FlatDarculaLaf",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
+  "name":"[Ljavax.swing.event.ChangeListener;"
 },
 {
-  "name":"com.formdev.flatlaf.FlatDarkLaf",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
+  "name":"[Ljavax.swing.event.ListSelectionListener;"
 },
 {
-  "name":"com.formdev.flatlaf.FlatIntelliJLaf",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
+  "name":"[Lsun.security.pkcs.SignerInfo;"
 },
 {
-  "name":"com.formdev.flatlaf.FlatLightLaf",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
+  "name":"a03.swing.plaf.A03LookAndFeel"
 },
 {
-  "name":"com.formdev.flatlaf.demo.BasicComponentsPanel",
+  "name":"apple.laf.AquaLookAndFeel"
+},
+{
+  "name":"com.apple.laf.AquaLookAndFeel"
+},
+{
+  "name":"com.formdev.flatlaf.FlatLaf"
+},
+{
+  "name":"com.incors.plaf.alloy.AlloyLookAndFeel"
+},
+{
+  "name":"com.jgoodies.looks.plastic.Plastic3DLookAndFeel"
+},
+{
+  "name":"com.jgoodies.looks.plastic.PlasticXPLookAndFeel"
+},
+{
+  "name":"com.jidesoft.action.Chevron",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.ControlBar",
+  "name":"com.jidesoft.action.CommandBar",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.DataComponentsPanel",
+  "name":"com.jidesoft.action.CommandBar$Expansion",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.DemoFrame",
+  "name":"com.jidesoft.action.CommandBarSeparator",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.HintManager$HintPanel",
+  "name":"com.jidesoft.action.CommandBarTitleBar",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.HintManager$HintPanel$2",
+  "name":"com.jidesoft.action.CommandMenuBar",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.LookAndFeelsComboBox",
+  "name":"com.jidesoft.action.DockableBar",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.LookAndFeelsComboBox$1",
+  "name":"com.jidesoft.action.DockableBarContainer",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.MoreComponentsPanel",
+  "name":"com.jidesoft.action.DockableBarDockableHolderPanel",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.OptionPanePanel",
+  "name":"com.jidesoft.action.MainContainer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }, {"name":"getContentPane","parameterTypes":[] }]
+},
+{
+  "name":"com.jidesoft.action.Product"
+},
+{
+  "name":"com.jidesoft.chart.Product"
+},
+{
+  "name":"com.jidesoft.combobox.AbstractComboBox",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.OptionPanePanel$ShowDialogLinkLabel",
+  "name":"com.jidesoft.combobox.AbstractComboBox$ComboBoxTextField",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.ScrollablePanel",
+  "name":"com.jidesoft.combobox.AbstractComboBox$DefaultTextFieldEditorComponent",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.TabsPanel",
+  "name":"com.jidesoft.combobox.AbstractComboBox$EditorComponent",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.extras.ExtrasPanel",
+  "name":"com.jidesoft.combobox.CalculatorComboBox",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.intellijthemes.IJThemesPanel",
+  "name":"com.jidesoft.combobox.CalculatorComboBox$f",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.demo.intellijthemes.IJThemesPanel$2",
+  "name":"com.jidesoft.combobox.ExComboBox",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.extras.FlatAnimatedLafChange$1",
+  "name":"com.jidesoft.combobox.InsetsComboBox",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.extras.FlatUIDefaultsInspector$KeyRenderer",
+  "name":"com.jidesoft.combobox.ListChooserPanel",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.extras.FlatUIDefaultsInspector$Renderer",
+  "name":"com.jidesoft.combobox.ListChooserPanel$ListEx",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.extras.FlatUIDefaultsInspector$ValueRenderer",
+  "name":"com.jidesoft.combobox.ListExComboBox",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.extras.components.FlatButton",
+  "name":"com.jidesoft.combobox.ListExComboBox$a",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.extras.components.FlatTextField",
+  "name":"com.jidesoft.combobox.MultilineStringComboBox",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.extras.components.FlatTriStateCheckBox",
+  "name":"com.jidesoft.combobox.PopupPanel",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.icons.FlatAscendingSortIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatCapsLockIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatCheckBoxIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatCheckBoxMenuItemIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatClearIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatDescendingSortIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatFileViewComputerIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatHelpButtonIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatMenuArrowIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatMenuItemArrowIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatOptionPaneErrorIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatOptionPaneInformationIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatOptionPaneQuestionIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatOptionPaneWarningIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatRadioButtonIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatRadioButtonMenuItemIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatRevealIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatTabbedPaneCloseIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatTreeClosedIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatTreeCollapsedIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatTreeExpandedIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatTreeLeafIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatTreeOpenIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatWindowCloseIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatWindowIconifyIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatWindowMaximizeIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.icons.FlatWindowRestoreIcon",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.themes.FlatMacDarkLaf",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.themes.FlatMacLightLaf",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatArrowButton",
+  "name":"com.jidesoft.combobox.TableExComboBox",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatBorder",
-  "fields":[{"name":"focusable"}, {"name":"font"}, {"name":"icon"}]
+  "name":"com.jidesoft.combobox.TreeExComboBox",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatButtonBorder",
-  "fields":[{"name":"focusable"}, {"name":"font"}, {"name":"icon"}, {"name":"toolbarMargin"}, {"name":"toolbarSpacingInsets"}],
-  "methods":[{"name":"<init>","parameterTypes":[] }]
+  "name":"com.jidesoft.dialog.BannerPanel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatButtonUI",
-  "fields":[{"name":"focusable"}, {"name":"font"}, {"name":"icon"}, {"name":"toolbarHoverBackground"}, {"name":"toolbarMargin"}, {"name":"toolbarPressedBackground"}, {"name":"toolbarSelectedBackground"}, {"name":"toolbarSpacingInsets"}],
+  "name":"com.jidesoft.dialog.BannerPanel$b",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.dialog.BannerPanel$c",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.dialog.ButtonPanel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.dialog.StandardDialog",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.dialog.StandardDialog$DefaultStandardDialogPane",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.dialog.StandardDialogPane",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.diff.Product"
+},
+{
+  "name":"com.jidesoft.docking.AutoHideContainer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.docking.ContainerContainer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.docking.ContainerContainerDivider",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.docking.DefaultDockableHolder",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.docking.DefaultDockingManager$DockedHiddenSlidingContainer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.docking.DefaultDockingManager$MainPanel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.docking.DockableFrame",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.docking.DockedFrameContainer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.docking.FrameContainer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.docking.Product"
+},
+{
+  "name":"com.jidesoft.docking.SlidingOverFrameContainer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.docking.Workspace",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.docking.event.DockableFrameListener",
+  "methods":[{"name":"dockableFrameActivated","parameterTypes":["com.jidesoft.docking.event.DockableFrameEvent"] }, {"name":"dockableFrameAdded","parameterTypes":["com.jidesoft.docking.event.DockableFrameEvent"] }, {"name":"dockableFrameAutohidden","parameterTypes":["com.jidesoft.docking.event.DockableFrameEvent"] }, {"name":"dockableFrameDeactivated","parameterTypes":["com.jidesoft.docking.event.DockableFrameEvent"] }, {"name":"dockableFrameDocked","parameterTypes":["com.jidesoft.docking.event.DockableFrameEvent"] }, {"name":"dockableFrameHidden","parameterTypes":["com.jidesoft.docking.event.DockableFrameEvent"] }, {"name":"dockableFrameMoved","parameterTypes":["com.jidesoft.docking.event.DockableFrameEvent"] }, {"name":"dockableFrameRemoved","parameterTypes":["com.jidesoft.docking.event.DockableFrameEvent"] }, {"name":"dockableFrameShown","parameterTypes":["com.jidesoft.docking.event.DockableFrameEvent"] }, {"name":"dockableFrameTabHidden","parameterTypes":["com.jidesoft.docking.event.DockableFrameEvent"] }, {"name":"dockableFrameTabShown","parameterTypes":["com.jidesoft.docking.event.DockableFrameEvent"] }]
+},
+{
+  "name":"com.jidesoft.document.DocumentPane",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.document.Product"
+},
+{
+  "name":"com.jidesoft.document.TdiGroup",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.editor.Product"
+},
+{
+  "name":"com.jidesoft.grid.BooleanCheckBoxCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.CategorizedTable",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.CellSpanTable",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.CellStyleTable",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.CellStyleTableHeader",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.ColorCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.ContextSensitiveCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.ContextSensitiveTable",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.DraggingTableHeader",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.IconCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.JideTable",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.JideTable$ab",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.MultilineStringCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.MultilineTableCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.NavigableTable",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.NumberCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.PasswordCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.Product"
+},
+{
+  "name":"com.jidesoft.grid.QuickFilterField",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.QuickFilterField$j",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.SortableTable",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.SortableTableHeader",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.StyledTableCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.TristateCheckBoxCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.VerticalContextSensitiveCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.VerticalTableCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.grid.n",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.list.StyledListCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.navigation.NavigationTree",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.pane.CollapsiblePane",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.pane.CollapsiblePane$a",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.pane.CollapsiblePanes",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.pivot.Product"
+},
+{
+  "name":"com.jidesoft.plaf.basic.BasicCellSpanTableUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatCheckBoxMenuItemUI",
+  "name":"com.jidesoft.plaf.basic.BasicChevronUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatCheckBoxUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatComboBoxUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatComboBoxUI$FlatComboBoxButton",
+  "name":"com.jidesoft.plaf.basic.BasicCollapsiblePaneTitlePane",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatComboBoxUI$FlatComboPopup",
+  "name":"com.jidesoft.plaf.basic.BasicCollapsiblePaneTitlePane$BasicCollapseButton",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatEditorPaneUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatEmptyBorder",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatFormattedTextFieldUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatLabelUI",
-  "fields":[{"name":"arc"}, {"name":"border"}, {"name":"font"}],
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatListCellBorder$Default",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatListCellBorder$Selected",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatListUI",
-  "fields":[{"name":"selectionArc"}, {"name":"selectionInsets"}],
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatMarginBorder",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatMenuBarBorder",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatMenuBarUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatMenuItemBorder",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatMenuItemUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatMenuUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatOptionPaneUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatPanelUI",
-  "fields":[{"name":"arc"}, {"name":"background"}, {"name":"border"}],
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatPasswordFieldUI",
-  "fields":[{"name":"showRevealButton"}],
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatPopupMenuBorder",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatPopupMenuSeparatorUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatPopupMenuUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatProgressBarUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatRadioButtonMenuItemUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatRadioButtonUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatRootPaneUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatRootPaneUI$FlatWindowBorder",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatRoundBorder",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatScrollBarUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatScrollBarUI$FlatScrollBarButton",
+  "name":"com.jidesoft.plaf.basic.BasicCollapsiblePaneTitlePane$b",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatScrollPaneBorder",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatScrollPaneUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatSeparatorUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatSliderUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatSpinnerUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatSpinnerUI$1",
+  "name":"com.jidesoft.plaf.basic.BasicCollapsiblePaneTitlePane$c",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatSplitPaneUI",
+  "name":"com.jidesoft.plaf.basic.BasicCollapsiblePaneUI"
+},
+{
+  "name":"com.jidesoft.plaf.basic.BasicCommandBarSeparatorUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatSplitPaneUI$1",
-  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatSplitPaneUI$FlatSplitPaneDivider",
-  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatTabbedPaneUI",
+  "name":"com.jidesoft.plaf.basic.BasicCommandBarTitleBarUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTabbedPaneUI$ContainerUIResource",
+  "name":"com.jidesoft.plaf.basic.BasicCommandBarTitleBarUI$b",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTabbedPaneUI$FlatMoreTabsButton",
-  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatTabbedPaneUI$FlatScrollableTabButton",
-  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatTabbedPaneUI$FlatTabAreaButton",
-  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatTabbedPaneUI$TabCloseButton",
-  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatTableCellBorder$Default",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatTableHeaderBorder",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatTableHeaderUI",
+  "name":"com.jidesoft.plaf.basic.BasicCommandBarUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTableHeaderUI$FlatTableHeaderCellRendererPane",
+  "name":"com.jidesoft.plaf.basic.BasicCustomizer"
+},
+{
+  "name":"com.jidesoft.plaf.basic.BasicDockableFrameTitlePane",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTableUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatTableUI$FlatBooleanRenderer",
+  "name":"com.jidesoft.plaf.basic.BasicDockableFrameTitlePane$NoFocusButton",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTextAreaUI",
+  "name":"com.jidesoft.plaf.basic.BasicDockableFrameUI"
+},
+{
+  "name":"com.jidesoft.plaf.basic.BasicFolderChooserUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTextBorder",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
+  "name":"com.jidesoft.plaf.basic.BasicGripperUI"
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTextFieldUI",
+  "name":"com.jidesoft.plaf.basic.BasicInitializer"
+},
+{
+  "name":"com.jidesoft.plaf.basic.BasicJideButtonUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTextPaneUI",
+  "name":"com.jidesoft.plaf.basic.BasicJideLabelUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTitlePane",
+  "name":"com.jidesoft.plaf.basic.BasicJidePopupUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.basic.BasicJideTabbedPaneUI"
+},
+{
+  "name":"com.jidesoft.plaf.basic.BasicJideTabbedPaneUI$ScrollableTabPanel",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTitlePane$1",
+  "name":"com.jidesoft.plaf.basic.BasicJideTabbedPaneUI$ScrollableTabViewport",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTitlePane$2",
+  "name":"com.jidesoft.plaf.basic.BasicJideTableUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.basic.BasicSidePaneUI"
+},
+{
+  "name":"com.jidesoft.plaf.basic.BasicSortableTableHeaderUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.basic.BasicStatusBarSeparatorUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.basic.BasicStyledLabelUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.basic.ExComboBoxPopup",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTitlePane$4",
+  "name":"com.jidesoft.plaf.basic.FolderToolBar",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatTitlePane$6",
+  "name":"com.jidesoft.plaf.basic.FolderToolBar$i",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.formdev.flatlaf.ui.FlatToggleButtonUI",
-  "fields":[{"name":"focusable"}, {"name":"font"}, {"name":"toolbarHoverBackground"}, {"name":"toolbarMargin"}, {"name":"toolbarPressedBackground"}, {"name":"toolbarSelectedBackground"}, {"name":"toolbarSpacingInsets"}],
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatToolBarBorder",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatToolBarSeparatorUI",
-  "fields":[{"name":"separatorWidth"}],
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatToolBarUI",
-  "fields":[{"name":"borderMargins"}, {"name":"floatable"}, {"name":"opaque"}],
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatToolTipUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatTreeUI",
-  "fields":[{"name":"selectionArc"}, {"name":"selectionInsets"}],
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatViewportUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"com.formdev.flatlaf.ui.FlatWindowResizer$DragBorderComponent",
+  "name":"com.jidesoft.plaf.basic.c",
   "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.sun.java.swing.plaf.gtk.GTKIconFactory",
-  "methods":[{"name":"getCheckBoxIcon","parameterTypes":[] }, {"name":"getCheckBoxMenuItemCheckIcon","parameterTypes":[] }, {"name":"getMenuArrowIcon","parameterTypes":[] }, {"name":"getRadioButtonIcon","parameterTypes":[] }, {"name":"getRadioButtonMenuItemCheckIcon","parameterTypes":[] }, {"name":"getTreeCollapsedIcon","parameterTypes":[] }, {"name":"getTreeExpandedIcon","parameterTypes":[] }]
+  "name":"com.jidesoft.plaf.basic.f",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
 },
 {
-  "name":"com.sun.java.swing.plaf.gtk.GTKLookAndFeel",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
+  "name":"com.jidesoft.plaf.metal.MetalCustomizer"
 },
 {
-  "name":"com.sun.java.swing.plaf.gtk.GTKPainter",
-  "methods":[{"name":"paintCheckBoxIcon","parameterTypes":["javax.swing.plaf.synth.SynthContext","java.awt.Graphics","int","int","int","int","int"] }, {"name":"paintMenuArrowIcon","parameterTypes":["javax.swing.plaf.synth.SynthContext","java.awt.Graphics","int","int","int","int","int","com.sun.java.swing.plaf.gtk.GTKConstants$ArrowType"] }, {"name":"paintToolBarHandleIcon","parameterTypes":["javax.swing.plaf.synth.SynthContext","java.awt.Graphics","int","int","int","int","int","com.sun.java.swing.plaf.gtk.GTKConstants$Orientation"] }]
+  "name":"com.jidesoft.plaf.metal.MetalExComboBoxUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.metal.MetalInitializer"
+},
+{
+  "name":"com.jidesoft.plaf.metal.MetalJideSplitButtonUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.metal.MetalMenuItemUI"
+},
+{
+  "name":"com.jidesoft.plaf.metal.MetalMenuUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.metal.MetalRangeSliderUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.vsnet.VsnetCollapsiblePaneUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.vsnet.VsnetDockableFrameUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.vsnet.VsnetGripperUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.vsnet.VsnetJideTabbedPaneUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.plaf.vsnet.VsnetMenuItemUI"
+},
+{
+  "name":"com.jidesoft.plaf.vsnet.VsnetMetalUtils$a"
+},
+{
+  "name":"com.jidesoft.plaf.vsnet.VsnetSidePaneUI",
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"com.jidesoft.popup.JidePopup",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.rss.Product"
+},
+{
+  "name":"com.jidesoft.shortcut.Product"
+},
+{
+  "name":"com.jidesoft.spinner.DateSpinner",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.spinner.PointSpinner",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.spinner.PointSpinner$PointEditor",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.status.LabelStatusBarItem",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.status.MemoryStatusBarItem",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.status.MemoryStatusBarItem$d",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.status.MemoryStatusBarItem$e",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.status.ProgressStatusBarItem",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.status.ResizeStatusBarItem",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.status.StatusBar",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.status.StatusBarItem",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.status.StatusBarSeparator",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.AutoCompletionComboBox",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.AutoResizingTextArea",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.Calculator",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.CheckBoxList",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.CheckBoxListCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.CheckBoxTree",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.CheckBoxTreeCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.ClickThroughLabel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.ContentContainer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.DefaultOverlayable",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.FolderChooser",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.Gripper",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.InfiniteProgressPanel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.JideButton",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.JideLabel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.JideMenu",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.JideScrollPane",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.JideSplitButton",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.JideSplitPane",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.JideSplitPaneDivider",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.JideTabbedPane",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.JideTabbedPane$NoFocusButton",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.JideToggleButton",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.LabeledTextField",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.MarqueePane",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.MultilineLabel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.NullButton",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.NullCheckBox",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.NullLabel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.NullPanel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.NullTristateCheckBox",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.OverlayCheckBox",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.OverlayComboBox",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.OverlayRadioButton",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.OverlayTextArea",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.OverlayTextField",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.RangeSlider",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.Resizable$ResizeCorner",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.ResizablePanel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.ResizableWindow",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.ResizableWindow$b",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.SearchableBar",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.SidePane",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.SimpleScrollPane",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.SimpleScrollPane$ScrollButton",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.StyledLabel",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.TitledSeparator",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.swing.TristateCheckBox",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.tooltip.ExpandedTip$d",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.tree.QuickTreeFilterField",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.tree.StyledTreeCellRenderer",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.treemap.Product"
+},
+{
+  "name":"com.jidesoft.utils.Lm",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"com.jidesoft.utils.Lm$a",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.utils.Lm$b",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"com.jidesoft.wizard.Product"
+},
+{
+  "name":"com.sun.awt.AWTUtilities"
+},
+{
+  "name":"com.sun.java.swing.plaf.windows.WindowsLookAndFeel"
 },
 {
   "name":"com.sun.org.apache.xalan.internal.xsltc.trax.TransformerFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.org.apache.xerces.internal.dom.DOMXSImplementationSourceImpl",
   "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
@@ -721,40 +1818,73 @@
   "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
-  "name":"com.sun.xml.internal.stream.XMLInputFactoryImpl",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
+  "name":"de.javasoft.plaf.synthetica.SyntheticaLookAndFeel"
 },
 {
-  "name":"java.awt.Component",
-  "methods":[{"name":"getBackground","parameterTypes":[] }, {"name":"getFont","parameterTypes":[] }, {"name":"isFocusable","parameterTypes":[] }, {"name":"setFocusable","parameterTypes":["boolean"] }]
+  "name":"e",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"e$a",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"e$c",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"f",
+  "methods":[{"name":"coalesceEvents","parameterTypes":["java.awt.AWTEvent","java.awt.AWTEvent"] }]
+},
+{
+  "name":"java.awt.Image"
 },
 {
   "name":"java.awt.SequencedEvent"
 },
 {
   "name":"java.awt.event.KeyEvent",
-  "fields":[{"name":"VK_A"}, {"name":"VK_ADD"}, {"name":"VK_BACK_SLASH"}, {"name":"VK_BACK_SPACE"}, {"name":"VK_C"}, {"name":"VK_CONTEXT_MENU"}, {"name":"VK_COPY"}, {"name":"VK_CUT"}, {"name":"VK_DELETE"}, {"name":"VK_DOWN"}, {"name":"VK_END"}, {"name":"VK_ENTER"}, {"name":"VK_ESCAPE"}, {"name":"VK_F1"}, {"name":"VK_F10"}, {"name":"VK_F12"}, {"name":"VK_F2"}, {"name":"VK_F3"}, {"name":"VK_F4"}, {"name":"VK_F5"}, {"name":"VK_F6"}, {"name":"VK_F7"}, {"name":"VK_F8"}, {"name":"VK_F9"}, {"name":"VK_H"}, {"name":"VK_HOME"}, {"name":"VK_INSERT"}, {"name":"VK_KP_DOWN"}, {"name":"VK_KP_LEFT"}, {"name":"VK_KP_RIGHT"}, {"name":"VK_KP_UP"}, {"name":"VK_LEFT"}, {"name":"VK_O"}, {"name":"VK_PAGE_DOWN"}, {"name":"VK_PAGE_UP"}, {"name":"VK_PASTE"}, {"name":"VK_RETURN"}, {"name":"VK_RIGHT"}, {"name":"VK_S"}, {"name":"VK_SLASH"}, {"name":"VK_SPACE"}, {"name":"VK_SUBTRACT"}, {"name":"VK_T"}, {"name":"VK_TAB"}, {"name":"VK_UP"}, {"name":"VK_V"}, {"name":"VK_X"}, {"name":"VK_Y"}]
+  "fields":[{"name":"VK_A"}, {"name":"VK_ADD"}, {"name":"VK_BACK_SLASH"}, {"name":"VK_BACK_SPACE"}, {"name":"VK_C"}, {"name":"VK_CONTEXT_MENU"}, {"name":"VK_COPY"}, {"name":"VK_CUT"}, {"name":"VK_DELETE"}, {"name":"VK_DOWN"}, {"name":"VK_END"}, {"name":"VK_ENTER"}, {"name":"VK_ESCAPE"}, {"name":"VK_F10"}, {"name":"VK_F2"}, {"name":"VK_F5"}, {"name":"VK_F6"}, {"name":"VK_F8"}, {"name":"VK_H"}, {"name":"VK_HOME"}, {"name":"VK_INSERT"}, {"name":"VK_KP_DOWN"}, {"name":"VK_KP_LEFT"}, {"name":"VK_KP_RIGHT"}, {"name":"VK_KP_UP"}, {"name":"VK_LEFT"}, {"name":"VK_O"}, {"name":"VK_PAGE_DOWN"}, {"name":"VK_PAGE_UP"}, {"name":"VK_PASTE"}, {"name":"VK_RIGHT"}, {"name":"VK_SLASH"}, {"name":"VK_SPACE"}, {"name":"VK_SUBTRACT"}, {"name":"VK_T"}, {"name":"VK_TAB"}, {"name":"VK_UP"}, {"name":"VK_V"}, {"name":"VK_X"}]
 },
 {
-  "name":"java.awt.geom.Path2D",
-  "methods":[{"name":"trimToSize","parameterTypes":[] }]
+  "name":"java.io.InputStream"
 },
 {
-  "name":"java.beans.Beans"
+  "name":"java.io.Reader"
 },
 {
-  "name":"java.beans.PropertyVetoException"
-},
-{
-  "name":"java.lang.Object",
-  "queryAllPublicMethods":true
-},
-{
-  "name":"java.lang.ObjectCustomizer"
+  "name":"java.lang.String"
 },
 {
   "name":"java.lang.Thread",
   "fields":[{"name":"threadLocalRandomProbe"}]
+},
+{
+  "name":"java.nio.ByteBuffer"
+},
+{
+  "name":"java.nio.CharBuffer"
+},
+{
+  "name":"java.security.AlgorithmParametersSpi"
+},
+{
+  "name":"java.security.MessageDigestSpi"
+},
+{
+  "name":"java.security.interfaces.DSAPrivateKey"
+},
+{
+  "name":"java.security.interfaces.DSAPublicKey"
+},
+{
+  "name":"java.security.spec.DSAParameterSpec"
+},
+{
+  "name":"java.util.Date"
+},
+{
+  "name":"java.util.List"
 },
 {
   "name":"java.util.concurrent.atomic.AtomicBoolean",
@@ -769,188 +1899,23 @@
   "fields":[{"name":"base"}, {"name":"cellsBusy"}]
 },
 {
-  "name":"javax.swing.AbstractButton",
-  "methods":[{"name":"getIcon","parameterTypes":[] }, {"name":"setIcon","parameterTypes":["javax.swing.Icon"] }]
+  "name":"javax.imageio.spi.ImageReaderSpi"
 },
 {
-  "name":"javax.swing.JArrowButton"
+  "name":"javax.imageio.spi.ImageReaderWriterSpi",
+  "methods":[{"name":"getFileSuffixes","parameterTypes":[] }, {"name":"getFormatNames","parameterTypes":[] }, {"name":"getMIMETypes","parameterTypes":[] }]
 },
 {
-  "name":"javax.swing.JButton",
-  "methods":[{"name":"getFocusable","parameterTypes":[] }]
+  "name":"javax.imageio.spi.ImageWriterSpi"
 },
 {
-  "name":"javax.swing.JCheckBox"
+  "name":"javax.security.auth.x500.X500Principal",
+  "fields":[{"name":"thisX500Name"}],
+  "methods":[{"name":"<init>","parameterTypes":["sun.security.x509.X500Name"] }]
 },
 {
-  "name":"javax.swing.JCheckBoxMenuItem"
-},
-{
-  "name":"javax.swing.JColorChooser"
-},
-{
-  "name":"javax.swing.JComboBox"
-},
-{
-  "name":"javax.swing.JComponent",
-  "methods":[{"name":"getBorder","parameterTypes":[] }, {"name":"getUI","parameterTypes":[] }, {"name":"isOpaque","parameterTypes":[] }, {"name":"setBackground","parameterTypes":["java.awt.Color"] }, {"name":"setBorder","parameterTypes":["javax.swing.border.Border"] }, {"name":"setFont","parameterTypes":["java.awt.Font"] }, {"name":"setOpaque","parameterTypes":["boolean"] }]
-},
-{
-  "name":"javax.swing.JDesktopIcon"
-},
-{
-  "name":"javax.swing.JDesktopPane"
-},
-{
-  "name":"javax.swing.JEditorPane"
-},
-{
-  "name":"javax.swing.JFileChooser"
-},
-{
-  "name":"javax.swing.JFormattedTextField"
-},
-{
-  "name":"javax.swing.JInternalFrame"
-},
-{
-  "name":"javax.swing.JInternalFrameTitlePane"
-},
-{
-  "name":"javax.swing.JLabel"
-},
-{
-  "name":"javax.swing.JList"
-},
-{
-  "name":"javax.swing.JMenu"
-},
-{
-  "name":"javax.swing.JMenuBar"
-},
-{
-  "name":"javax.swing.JMenuItem"
-},
-{
-  "name":"javax.swing.JMenuItemAccelerator"
-},
-{
-  "name":"javax.swing.JOptionPane"
-},
-{
-  "name":"javax.swing.JPanel"
-},
-{
-  "name":"javax.swing.JPasswordField"
-},
-{
-  "name":"javax.swing.JPopupMenu"
-},
-{
-  "name":"javax.swing.JPopupMenuSeparator"
-},
-{
-  "name":"javax.swing.JProgressBar"
-},
-{
-  "name":"javax.swing.JRadioButton"
-},
-{
-  "name":"javax.swing.JRadioButtonMenuItem"
-},
-{
-  "name":"javax.swing.JRootPane"
-},
-{
-  "name":"javax.swing.JScrollBar"
-},
-{
-  "name":"javax.swing.JScrollBarThumb"
-},
-{
-  "name":"javax.swing.JScrollBarTrack"
-},
-{
-  "name":"javax.swing.JScrollPane"
-},
-{
-  "name":"javax.swing.JSeparator"
-},
-{
-  "name":"javax.swing.JSlider"
-},
-{
-  "name":"javax.swing.JSliderThumb"
-},
-{
-  "name":"javax.swing.JSliderTrack"
-},
-{
-  "name":"javax.swing.JSpinner"
-},
-{
-  "name":"javax.swing.JSplitPane"
-},
-{
-  "name":"javax.swing.JSplitPaneDivider"
-},
-{
-  "name":"javax.swing.JTabbedPane"
-},
-{
-  "name":"javax.swing.JTabbedPaneContent"
-},
-{
-  "name":"javax.swing.JTabbedPaneTab"
-},
-{
-  "name":"javax.swing.JTabbedPaneTabArea"
-},
-{
-  "name":"javax.swing.JTable"
-},
-{
-  "name":"javax.swing.JTableHeader"
-},
-{
-  "name":"javax.swing.JTextArea"
-},
-{
-  "name":"javax.swing.JTextField"
-},
-{
-  "name":"javax.swing.JTextPane"
-},
-{
-  "name":"javax.swing.JToggleButton",
-  "methods":[{"name":"getFocusable","parameterTypes":[] }]
-},
-{
-  "name":"javax.swing.JToolBar",
-  "methods":[{"name":"getFloatable","parameterTypes":[] }, {"name":"getOpaque","parameterTypes":[] }, {"name":"isFloatable","parameterTypes":[] }, {"name":"setFloatable","parameterTypes":["boolean"] }]
-},
-{
-  "name":"javax.swing.JToolBarSeparator"
-},
-{
-  "name":"javax.swing.JToolTip"
-},
-{
-  "name":"javax.swing.JTree"
-},
-{
-  "name":"javax.swing.JTreeCell"
-},
-{
-  "name":"javax.swing.JViewport"
-},
-{
-  "name":"javax.swing.PopupFactory",
-  "methods":[{"name":"getPopup","parameterTypes":["java.awt.Component","java.awt.Component","int","int","boolean"] }]
-},
-{
-  "name":"javax.swing.plaf.basic.BasicButtonListener",
-  "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
+  "name":"javax.swing.JPanel",
+  "methods":[{"name":"getContentPane","parameterTypes":[] }]
 },
 {
   "name":"javax.swing.plaf.basic.BasicCheckBoxMenuItemUI",
@@ -961,39 +1926,15 @@
   "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
 },
 {
-  "name":"javax.swing.plaf.basic.BasicEditorPaneUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
   "name":"javax.swing.plaf.basic.BasicFormattedTextFieldUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"javax.swing.plaf.basic.BasicGraphicsUtils",
-  "methods":[{"name":"drawStringUnderlineCharAt","parameterTypes":["javax.swing.JComponent","java.awt.Graphics2D","java.lang.String","int","float","float"] }, {"name":"getClippedString","parameterTypes":["javax.swing.JComponent","java.awt.FontMetrics","java.lang.String","int"] }]
-},
-{
-  "name":"javax.swing.plaf.basic.BasicLabelUI",
-  "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
-},
-{
   "name":"javax.swing.plaf.basic.BasicListUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }, {"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
-},
-{
-  "name":"javax.swing.plaf.basic.BasicMenuBarUI",
-  "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
   "name":"javax.swing.plaf.basic.BasicMenuItemUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }, {"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
-},
-{
-  "name":"javax.swing.plaf.basic.BasicMenuUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }, {"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
-},
-{
-  "name":"javax.swing.plaf.basic.BasicOptionPaneUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }, {"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
 },
 {
@@ -1013,36 +1954,16 @@
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"javax.swing.plaf.basic.BasicRootPaneUI",
-  "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
-},
-{
-  "name":"javax.swing.plaf.basic.BasicScrollBarUI",
-  "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
-},
-{
-  "name":"javax.swing.plaf.basic.BasicScrollPaneUI",
-  "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
-},
-{
   "name":"javax.swing.plaf.basic.BasicSliderUI",
   "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
 },
 {
   "name":"javax.swing.plaf.basic.BasicSpinnerUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }, {"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
-},
-{
-  "name":"javax.swing.plaf.basic.BasicSplitPaneUI",
-  "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
-},
-{
-  "name":"javax.swing.plaf.basic.BasicTabbedPaneUI",
-  "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
   "name":"javax.swing.plaf.basic.BasicTableHeaderUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }, {"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
+  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
   "name":"javax.swing.plaf.basic.BasicTableUI",
@@ -1057,16 +1978,8 @@
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"javax.swing.plaf.basic.BasicToolBarSeparatorUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"javax.swing.plaf.basic.BasicToolBarUI",
-  "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
-},
-{
   "name":"javax.swing.plaf.basic.BasicTreeUI",
-  "methods":[{"name":"loadActionMap","parameterTypes":["javax.swing.plaf.basic.LazyActionMap"] }]
+  "methods":[{"name":"isLocationInExpandControl","parameterTypes":["javax.swing.tree.TreePath","int","int"] }]
 },
 {
   "name":"javax.swing.plaf.basic.BasicViewportUI",
@@ -1087,6 +2000,9 @@
 {
   "name":"javax.swing.plaf.metal.MetalLabelUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
+},
+{
+  "name":"javax.swing.plaf.metal.MetalLookAndFeel"
 },
 {
   "name":"javax.swing.plaf.metal.MetalMenuBarUI",
@@ -1117,19 +2033,12 @@
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"javax.swing.plaf.metal.MetalSeparatorUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
   "name":"javax.swing.plaf.metal.MetalSliderUI",
+  "fields":[{"name":"rollover"}],
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
   "name":"javax.swing.plaf.metal.MetalSplitPaneUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"javax.swing.plaf.metal.MetalTabbedPaneUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
@@ -1145,272 +2054,56 @@
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"javax.swing.plaf.metal.MetalToolTipUI",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
   "name":"javax.swing.plaf.metal.MetalTreeUI",
   "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
 },
 {
-  "name":"javax.swing.plaf.nimbus.ArrowButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
+  "name":"javax.swing.plaf.synth.SynthLookAndFeel"
 },
 {
-  "name":"javax.swing.plaf.nimbus.ButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.CheckBoxMenuItemPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.CheckBoxPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ComboBoxArrowButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ComboBoxPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ComboBoxTextFieldPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.DesktopIconPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.DesktopPanePainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.EditorPanePainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.FileChooserPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.FormattedTextFieldPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.InternalFramePainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.InternalFrameTitlePaneCloseButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.InternalFrameTitlePaneIconifyButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.InternalFrameTitlePaneMaximizeButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.InternalFrameTitlePaneMenuButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.MenuBarMenuPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.MenuBarPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.MenuItemPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.MenuPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.NimbusLookAndFeel",
+  "name":"sun.awt.shell.ShellFolderManager",
   "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.OptionPaneMessageAreaOptionPaneLabelPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.OptionPanePainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.PasswordFieldPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.PopupMenuPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.PopupMenuSeparatorPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ProgressBarPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.RadioButtonMenuItemPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.RadioButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ScrollBarButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ScrollBarThumbPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ScrollBarTrackPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ScrollPanePainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.SeparatorPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.SliderThumbPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.SliderTrackPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.SpinnerNextButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.SpinnerPanelSpinnerFormattedTextFieldPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.SpinnerPreviousButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.SplitPaneDividerPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.TabbedPaneTabAreaPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.TabbedPaneTabPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.TableEditorPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.TableHeaderPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.TableHeaderRendererPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.TextAreaPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.TextFieldPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.TextPanePainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ToggleButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ToolBarButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ToolBarPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ToolBarToggleButtonPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.ToolTipPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.TreeCellEditorPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.TreeCellPainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.nimbus.TreePainter",
-  "methods":[{"name":"<init>","parameterTypes":["javax.swing.plaf.nimbus.AbstractRegionPainter$PaintContext","int"] }]
-},
-{
-  "name":"javax.swing.plaf.synth.SynthLookAndFeel",
-  "methods":[{"name":"createUI","parameterTypes":["javax.swing.JComponent"] }]
-},
-{
-  "name":"javax.swing.text.html.HTMLEditorKit",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"net.miginfocom.layout.BoundSize",
-  "queryAllPublicMethods":true
-},
-{
-  "name":"net.miginfocom.layout.BoundSizeCustomizer"
-},
-{
-  "name":"net.miginfocom.layout.UnitValue",
-  "queryAllPublicMethods":true
-},
-{
-  "name":"net.miginfocom.layout.UnitValueCustomizer"
-},
-{
-  "name":"net.miginfocom.swing.MigLayout"
 },
 {
   "name":"sun.java2d.marlin.DMarlinRenderingEngine",
   "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
+  "name":"sun.security.provider.DSA$SHA256withDSA",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.DSAKeyFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.DSAParameters",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.NativePRNG",
+  "methods":[{"name":"<init>","parameterTypes":["java.security.SecureRandomParameters"] }]
+},
+{
   "name":"sun.security.provider.SHA",
   "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.SHA2$SHA256",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.X509Factory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.util.ObjectIdentifier"
+},
+{
+  "name":"sun.security.x509.CertificateExtensions"
+},
+{
+  "name":"sun.security.x509.SubjectKeyIdentifierExtension",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.Boolean","java.lang.Object"] }]
 }
 ]

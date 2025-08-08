@@ -1,5 +1,9 @@
 [
 {
+  "name":"JideDemos",
+  "methods":[{"name":"main","parameterTypes":["java.lang.String[]"] }]
+},
+{
   "name":"[Lsun.java2d.loops.GraphicsPrimitive;"
 },
 {
@@ -17,12 +21,12 @@
   "methods":[{"name":"getLocationOnScreen_NoTreeLock","parameterTypes":[] }, {"name":"getParent_NoClientCode","parameterTypes":[] }]
 },
 {
-  "name":"java.awt.Desktop$Action",
-  "fields":[{"name":"OPEN"}]
+  "name":"java.awt.DisplayMode",
+  "methods":[{"name":"<init>","parameterTypes":["int","int","int","int"] }]
 },
 {
   "name":"java.awt.GraphicsEnvironment",
-  "methods":[{"name":"getLocalGraphicsEnvironment","parameterTypes":[] }, {"name":"isHeadless","parameterTypes":[] }]
+  "methods":[{"name":"isHeadless","parameterTypes":[] }]
 },
 {
   "name":"java.awt.Rectangle",
@@ -91,15 +95,7 @@
 },
 {
   "name":"java.lang.Boolean",
-  "methods":[{"name":"<init>","parameterTypes":["boolean"] }, {"name":"getBoolean","parameterTypes":["java.lang.String"] }]
-},
-{
-  "name":"java.lang.Float",
-  "methods":[{"name":"<init>","parameterTypes":["float"] }]
-},
-{
-  "name":"java.lang.Integer",
-  "methods":[{"name":"<init>","parameterTypes":["int"] }]
+  "methods":[{"name":"getBoolean","parameterTypes":["java.lang.String"] }]
 },
 {
   "name":"java.lang.System",
@@ -110,10 +106,6 @@
   "methods":[{"name":"yield","parameterTypes":[] }]
 },
 {
-  "name":"java.util.ArrayList",
-  "methods":[{"name":"add","parameterTypes":["java.lang.Object"] }, {"name":"clear","parameterTypes":[] }]
-},
-{
   "name":"sun.awt.SunHints",
   "fields":[{"name":"INTVAL_STROKE_PURE"}]
 },
@@ -122,20 +114,12 @@
   "methods":[{"name":"awtLock","parameterTypes":[] }, {"name":"awtLockNotify","parameterTypes":[] }, {"name":"awtLockNotifyAll","parameterTypes":[] }, {"name":"awtLockWait","parameterTypes":["long"] }, {"name":"awtUnlock","parameterTypes":[] }]
 },
 {
-  "name":"sun.awt.UNIXToolkit",
-  "methods":[{"name":"loadIconCallback","parameterTypes":["byte[]","int","int","int","int","int","boolean"] }]
-},
-{
   "name":"sun.awt.X11.XBaseWindow",
   "fields":[{"name":"window"}],
   "methods":[{"name":"getWindow","parameterTypes":[] }]
 },
 {
   "name":"sun.awt.X11.XContentWindow"
-},
-{
-  "name":"sun.awt.X11.XDesktopPeer",
-  "fields":[{"name":"supportedActions"}]
 },
 {
   "name":"sun.awt.X11.XDialogPeer"
@@ -180,6 +164,10 @@
   "fields":[{"name":"data"}, {"name":"dataOffsets"}, {"name":"pixelStride"}, {"name":"scanlineStride"}, {"name":"type"}]
 },
 {
+  "name":"sun.awt.image.BytePackedRaster",
+  "fields":[{"name":"data"}, {"name":"dataBitOffset"}, {"name":"pixelBitStride"}, {"name":"scanlineStride"}, {"name":"type"}]
+},
+{
   "name":"sun.awt.image.GifImageDecoder",
   "fields":[{"name":"outCode"}, {"name":"prefix"}, {"name":"suffix"}],
   "methods":[{"name":"readBytes","parameterTypes":["byte[]","int","int"] }, {"name":"sendPixels","parameterTypes":["int","int","int","int","byte[]","java.awt.image.ColorModel"] }]
@@ -201,19 +189,6 @@
   "methods":[{"name":"canDisplay","parameterTypes":["char"] }, {"name":"charToGlyph","parameterTypes":["int"] }, {"name":"charToVariationGlyph","parameterTypes":["int","int"] }, {"name":"getMapper","parameterTypes":[] }, {"name":"getTableBytes","parameterTypes":["int"] }]
 },
 {
-  "name":"sun.font.FontConfigManager$FcCompFont",
-  "fields":[{"name":"allFonts"}, {"name":"fcName"}, {"name":"firstFont"}]
-},
-{
-  "name":"sun.font.FontConfigManager$FontConfigFont",
-  "fields":[{"name":"familyName"}, {"name":"fontFile"}, {"name":"fullName"}, {"name":"styleStr"}],
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
-  "name":"sun.font.FontConfigManager$FontConfigInfo",
-  "fields":[{"name":"cacheDirs"}, {"name":"fcVersion"}]
-},
-{
   "name":"sun.font.FontStrike",
   "methods":[{"name":"getGlyphMetrics","parameterTypes":["int"] }]
 },
@@ -224,11 +199,6 @@
 {
   "name":"sun.font.FreetypeFontScaler",
   "methods":[{"name":"invalidateScaler","parameterTypes":[] }]
-},
-{
-  "name":"sun.font.GlyphLayout$GVData",
-  "fields":[{"name":"_count"}, {"name":"_flags"}, {"name":"_glyphs"}, {"name":"_indices"}, {"name":"_positions"}],
-  "methods":[{"name":"grow","parameterTypes":[] }]
 },
 {
   "name":"sun.font.GlyphList",
@@ -264,10 +234,6 @@
 {
   "name":"sun.java2d.SunGraphics2D",
   "fields":[{"name":"clipRegion"}, {"name":"composite"}, {"name":"eargb"}, {"name":"lcdTextContrast"}, {"name":"pixel"}, {"name":"strokeHint"}]
-},
-{
-  "name":"sun.java2d.SunGraphicsEnvironment",
-  "methods":[{"name":"isDisplayLocal","parameterTypes":[] }]
 },
 {
   "name":"sun.java2d.SurfaceData",
